@@ -1,0 +1,21 @@
+.profile {
+  background-color: #f9e8f8;
+  border-radius: 0.625rem;
+  background-color: #512051;
+
+  &__image {
+    border-radius: 6.25rem;
+    width: 2.5rem;
+  }
+
+  &__info {
+    display: flex;
+    align-items: center;
+  }
+
+  &__text {
+    font-size: 1.0625rem;
+    color: white;
+    font-weight: 500;
+  }
+}
